@@ -1,7 +1,7 @@
 """
 Simple calculation for finding out largest prime factor of
 a  positive number.
-Function's idea inspired by Stefan: https://stackoverflow.com/a/22808285/6061080
+Thanks Stefan for inspiring the function below: https://stackoverflow.com/a/22808285/6061080
 """
 
 
