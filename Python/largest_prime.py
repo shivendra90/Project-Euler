@@ -1,7 +1,7 @@
 """
 Simple calculation for finding out largest prime factor of
 a  positive number.
-Inspired by Stefan's answer: https://stackoverflow.com/a/22808285/6061080
+Function's idea inspired by Stefan: https://stackoverflow.com/a/22808285/6061080
 """
 
 
@@ -32,6 +32,7 @@ def largest_prime(x):
 
 # print(largest_prime(600851475143))
 
+# Shortest answer written by self
 n = int(input("Please enter a number: "))
 factor = 2
 
